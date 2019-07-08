@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>Glexindo</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description>Home</description>
+      <initValue>'http://d3v5.glexindo.com/newui/id'</initValue>
+      <name>URLdefault</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>
